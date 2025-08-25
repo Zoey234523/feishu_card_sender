@@ -1,0 +1,6 @@
+flask
+redis
+rq
+pymongo
+python-dotenv
+requests
